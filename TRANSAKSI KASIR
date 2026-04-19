@@ -76,7 +76,17 @@ class Program
         Console.WriteLine("Kembalian   : " + kembalian);
     }
 }
+OUTPUT 
+Masukkan kode barang: 202
+Masukkan jumlah beli: 3
 
+Nama Barang : Es Krim
+Harga       : 8000
+Jumlah      : 3
+Total       : 24000
+
+Masukkan jumlah bayar: 50000
+Kembalian   : 26000
 
 FLOWCHART
 [Start]
